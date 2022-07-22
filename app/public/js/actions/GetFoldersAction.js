@@ -1,0 +1,5 @@
+export const GetFoldersAction = {
+    init() {
+
+    }
+};

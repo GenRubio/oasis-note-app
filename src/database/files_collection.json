@@ -1,0 +1,11 @@
+{
+    "auto_increment": 1,
+    "files": [
+        {
+            "id": 1,
+            "folder_id": 1,
+            "name": "Test",
+            "path": "storage/my-drive/2398428394.txt"
+        }
+    ]
+}

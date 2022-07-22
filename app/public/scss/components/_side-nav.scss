@@ -1,0 +1,26 @@
+.side-nav{
+    width:225px;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding: 20px 5px;
+    background-color: #f7f7f78a;
+    border-right: 1px solid #f3f1f1;
+
+    .action-button{
+        width: 65%;
+        padding: 10px;
+        border-radius: 30px;
+        text-align: center;
+        margin: 0 auto;
+        font-size: 16px;
+        box-shadow: 1px 1px 2px 2px #00000052;
+        cursor: pointer;
+        transition: 250ms ease;
+
+        &:hover{
+            background-color: #eaeaea;
+        }
+    }
+}
