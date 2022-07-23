@@ -1,0 +1,14 @@
+.folder-container{
+    border: 1px solid #dfdfdf;
+    padding: 10px 10px;
+    width: 190px;
+    border-radius: 8px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    transition: 250ms ease;
+
+    &:hover{
+      background-color: #eaeaea;
+    }
+}
