@@ -13,5 +13,9 @@ npm install
 npm start
 ```
 
+3) Para compilar SASS a CSS escribimos:
+``` bash
+npm run watch
+```
 ## Status
 En desarrollo
